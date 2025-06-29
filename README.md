@@ -33,6 +33,8 @@ Fornecer uma visão gerencial e estratégica sobre o quadro de funcionários de 
 ## 🖼️ Exemplo visual
 
 ![Dashboard RH](./Detalhes%20RH.png)
+![Dashboard RH](./Overview%20RH.png)
+
 
 ## 📝 Observações
 
